@@ -1,5 +1,6 @@
 import './assets/main.css'
 import 'element-plus/dist/index.css'
+import 'element-plus/theme-chalk/dark/css-vars.css'//这句是暗黑模式切换
 import './assets/tailMain.css'
 import '@vueup/vue-quill/dist/vue-quill.snow.css'
 import '@vueup/vue-quill/dist/vue-quill.bubble.css'
